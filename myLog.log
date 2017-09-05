@@ -1,0 +1,38 @@
+2017-09-02 15:37:27 INFO  FlatDaoJDBC:135 - Initialization successfully!
+2017-09-02 15:37:27 INFO  FlatDaoJDBC:125 - All flats get successfully!
+2017-09-02 15:39:24 INFO  FlatDaoJDBC:139 - Initialization successfully!
+2017-09-02 15:39:24 INFO  FlatDaoJDBC:129 - All flats get successfully!
+2017-09-02 15:39:59 INFO  FlatDaoJDBC:143 - Initialization successfully!
+2017-09-02 15:39:59 WARN  FlatDaoJDBC:130 - Empty list!
+2017-09-02 21:42:15 INFO  ConnectionMySql:26 - Connection created successfully!
+2017-09-02 21:42:15 INFO  FlatDaoJDBC:143 - Initialization successfully!
+2017-09-02 21:42:32 INFO  ConnectionMySql:26 - Connection created successfully!
+2017-09-02 21:42:32 INFO  FlatDaoJDBC:143 - Initialization successfully!
+2017-09-02 21:42:51 INFO  FlatDaoJDBC:106 - All flats get successfully!
+2017-09-02 21:43:18 INFO  FlatDaoJDBC:72 - Flat successfully deleted from db with id 3
+2017-09-02 21:43:31 INFO  FlatDaoJDBC:106 - All flats get successfully!
+2017-09-02 21:43:44 INFO  FlatDaoJDBC:87 - Flat successfully updated in db with id 2
+2017-09-02 21:43:46 INFO  FlatDaoJDBC:106 - All flats get successfully!
+2017-09-02 21:44:17 INFO  ConnectionMySql:26 - Connection created successfully!
+2017-09-02 21:44:17 INFO  FlatDaoJDBC:143 - Initialization successfully!
+2017-09-03 08:41:22 INFO  ConnectionMySql:26 - Connection created successfully!
+2017-09-03 08:41:22 INFO  FlatDaoJDBC:143 - Initialization successfully!
+2017-09-03 08:46:28 INFO  ConnectionMySql:26 - Connection created successfully!
+2017-09-03 08:46:28 INFO  FlatDaoJDBC:143 - Initialization successfully!
+2017-09-03 08:47:46 INFO  ConnectionMySql:26 - Connection created successfully!
+2017-09-03 08:47:46 INFO  FlatDaoJDBC:143 - Initialization successfully!
+2017-09-03 08:48:23 WARN  FlatDaoJDBC:130 - Empty list!
+2017-09-03 08:49:01 INFO  ConnectionMySql:26 - Connection created successfully!
+2017-09-03 08:49:01 INFO  FlatDaoJDBC:143 - Initialization successfully!
+2017-09-03 08:49:24 INFO  FlatDaoJDBC:58 - Flat successfully stored in db with id 4
+2017-09-03 08:49:30 INFO  FlatDaoJDBC:106 - All flats get successfully!
+2017-09-03 08:50:45 INFO  ConnectionMySql:26 - Connection created successfully!
+2017-09-03 08:50:45 INFO  FlatDaoJDBC:143 - Initialization successfully!
+2017-09-03 08:51:11 INFO  ConnectionMySql:26 - Connection created successfully!
+2017-09-03 08:51:11 INFO  FlatDaoJDBC:143 - Initialization successfully!
+2017-09-03 08:51:30 WARN  FlatDaoJDBC:130 - Empty list!
+2017-09-03 08:51:56 INFO  ConnectionMySql:26 - Connection created successfully!
+2017-09-03 08:51:56 INFO  FlatDaoJDBC:143 - Initialization successfully!
+2017-09-03 09:50:53 INFO  ConnectionMySql:27 - Connection created successfully!
+2017-09-03 09:50:53 INFO  FlatDaoJDBC:143 - Initialization successfully!
+2017-09-03 09:50:57 INFO  ConnectionMySql:39 - Connection closed!
